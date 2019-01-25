@@ -1,0 +1,60 @@
+User information : steve
+
+Operating System Type/Brand : GNU/Linux
+
+OS Distribution : Distributor ID:	Ubuntu
+Description:	Ubuntu 17.10
+
+OS Version : Release:	17.10
+
+Kernel Version : 4.13.0-46-generic
+
+Kernel gcc version build : Linux version 4.13.0-46-generic (buildd@lcy01-amd64-002) (gcc version 7.2.0 (Ubuntu 7.2.0-8ubuntu3.2)) #51-Ubuntu SMP Tue Jun 12 12:36:29 UTC 2018
+
+Kernel build time : #51-Ubuntu SMP Tue Jun 12 12:36:29 UTC 2018
+
+System Architecture information : Architecture:        x86_64
+CPU op-mode(s):      32-bit, 64-bit
+Byte Order:          Little Endian
+CPU(s):              8
+On-line CPU(s) list: 0-7
+Thread(s) per core:  2
+Core(s) per socket:  4
+Socket(s):           1
+NUMA node(s):        1
+Vendor ID:           GenuineIntel
+CPU family:          6
+Model:               142
+Model name:          Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz
+Stepping:            10
+CPU MHz:             3204.975
+CPU max MHz:         4000.0000
+CPU min MHz:         400.0000
+BogoMIPS:            3984.00
+Virtualization:      VT-x
+L1d cache:           32K
+L1i cache:           32K
+L2 cache:            256K
+L3 cache:            8192K
+NUMA node0 CPU(s):   0-7
+Flags:               fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf tsc_known_freq pni pclmulqdq dtes64 monitor ds_cpl vmx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb invpcid_single pti retpoline intel_pt rsb_ctxsw spec_ctrl tpr_shadow vnmi flexpriority ept vpid fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid mpx rdseed adx smap clflushopt xsaveopt xsavec xgetbv1 xsaves dtherm ida arat pln pts hwp hwp_notify hwp_act_window hwp_epp
+
+Information on File System Memory : Filesystem      Size  Used Avail Use% Mounted on
+udev            7.8G     0  7.8G   0% /dev
+tmpfs           1.6G   11M  1.6G   1% /run
+/dev/sda6        39G   27G   11G  72% /
+tmpfs           7.8G   15M  7.8G   1% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+tmpfs           7.8G     0  7.8G   0% /sys/fs/cgroup
+/dev/loop0      238M  238M     0 100% /snap/wine-platform-i386/25
+/dev/loop2      228M  228M     0 100% /snap/wine-platform-i386/22
+/dev/loop1      4.8M  4.8M     0 100% /snap/notepad-plus-plus/173
+/dev/loop3       89M   89M     0 100% /snap/core/5897
+/dev/loop5       90M   90M     0 100% /snap/core/6130
+/dev/loop4      3.8M  3.8M     0 100% /snap/notepad-plus-plus/167
+/dev/loop7       90M   90M     0 100% /snap/core/6034
+/dev/loop6      228M  228M     0 100% /snap/wine-platform-i386/23
+/dev/loop8      4.8M  4.8M     0 100% /snap/notepad-plus-plus/171
+/dev/sda1       256M   29M  228M  12% /boot/efi
+tmpfs           1.6G   20K  1.6G   1% /run/user/121
+tmpfs           1.6G  4.2M  1.6G   1% /run/user/1000
