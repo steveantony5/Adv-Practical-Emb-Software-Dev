@@ -9,7 +9,7 @@ hello-arm.o: hello-arm.c
 
 hello-arm-static: hello-arm.o
 #	$(CC) $(LDFLAGS) -o $@ $^ ../static/libtest.a
-	$(CC) -o $@ $^ -L../static -ltest
+	$(CC) -o $@ $^ -L../static -ltest -static
 
 hello-arm-shared: hello-arm.o
 	$(CC) -o $@ $^ -L../shared -ltest
